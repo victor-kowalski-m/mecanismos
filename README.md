@@ -7,3 +7,4 @@ Simulation of a robotic manipulator for transporting muffins on a production lin
 
 https://user-images.githubusercontent.com/70666266/146570539-eaee4ece-db63-40dc-8c98-d27c9fe9f024.mp4
 
+![Robotic manipulator](https://user-images.githubusercontent.com/70666266/146571113-f535aac4-0ff9-4fe6-9f9f-0daf19765e93.gif)
