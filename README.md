@@ -1,6 +1,6 @@
 # Trajectory planning and inverse kinematics for mechanisms design
 
-The work presented here is part of the undergraduate course "Mechanisms for Automation" (PMR3405) from the Mechatronics Engineering degree course at Universidade de São Paulo.
+MATLAB code developed during the undergraduate course "Mechanisms for Automation" (PMR3405) from the Mechatronics Engineering degree course at Universidade de São Paulo.
 
 1. Trajectory planning of a robotic manipulator for transporting muffins on a production line. <br><br>![Robotic manipulator](https://user-images.githubusercontent.com/70666266/146571113-f535aac4-0ff9-4fe6-9f9f-0daf19765e93.gif)
 
